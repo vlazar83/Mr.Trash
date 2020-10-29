@@ -1,0 +1,20 @@
+PODS:
+  - paper-onboarding (6.1.4)
+  - SwipeableTabBarController (3.2.1)
+
+DEPENDENCIES:
+  - paper-onboarding
+  - SwipeableTabBarController
+
+SPEC REPOS:
+  trunk:
+    - paper-onboarding
+    - SwipeableTabBarController
+
+SPEC CHECKSUMS:
+  paper-onboarding: d3f16416e6f42add686117e8b32bfffaad899a79
+  SwipeableTabBarController: 8f001d3a67dc052542a9f65721cb5b0451b11df2
+
+PODFILE CHECKSUM: d4e274e26362b4b9a25e8345c986490f1f48dfd2
+
+COCOAPODS: 1.8.4
