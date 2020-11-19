@@ -8,5 +8,6 @@ target 'Mr.Trash' do
   # Pods for Mr.Trash
   pod 'SwipeableTabBarController'
   pod 'paper-onboarding'
+  pod 'lottie-ios'
 
 end

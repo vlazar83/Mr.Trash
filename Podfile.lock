@@ -1,20 +1,24 @@
 PODS:
+  - lottie-ios (3.1.9)
   - paper-onboarding (6.1.4)
   - SwipeableTabBarController (3.2.1)
 
 DEPENDENCIES:
+  - lottie-ios
   - paper-onboarding
   - SwipeableTabBarController
 
 SPEC REPOS:
   trunk:
+    - lottie-ios
     - paper-onboarding
     - SwipeableTabBarController
 
 SPEC CHECKSUMS:
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
   paper-onboarding: d3f16416e6f42add686117e8b32bfffaad899a79
   SwipeableTabBarController: 8f001d3a67dc052542a9f65721cb5b0451b11df2
 
-PODFILE CHECKSUM: d4e274e26362b4b9a25e8345c986490f1f48dfd2
+PODFILE CHECKSUM: e121976a793df9a4ac10f9ad828894b4336539b9
 
 COCOAPODS: 1.8.4
